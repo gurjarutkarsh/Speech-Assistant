@@ -74,3 +74,4 @@ utkarsh_speak('How can i help you?')
 while 1:
     voice_data = record_audio()
     respond(voice_data)
+    
